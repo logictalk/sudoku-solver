@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Sudoku Solver And Validator
-//
-//  Created by Ameesha Dabas on 03/11/20.
-//
-
 #include<iostream>
 #include<fstream>
 using namespace std;
