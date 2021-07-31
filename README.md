@@ -1,8 +1,7 @@
 **Sudoku-Solver**
-
 Designed an algorithm to solve the Sudoku Puzzle. 
 
-*Data Structures and Algorithms used*
+*Data Structures and Algorithms used:*
 
 1.Backtracking
 
